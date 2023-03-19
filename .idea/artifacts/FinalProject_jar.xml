@@ -1,0 +1,12 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="FinalProject:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/FinalProject_jar</output-path>
+    <root id="archive" name="FinalProject.jar">
+      <element id="module-output" name="FinalProject" />
+      <element id="extracted-dir" path="D:/Java/jarPackage/commons-csv-1.8.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="D:/Java/jarPackage/javacsv-2.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="D:/Java/jarPackage/jxl-2.6.12.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../../../../../Program Files/IBM/ILOG/CPLEX_Studio1263/cplex/lib/cplex.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>

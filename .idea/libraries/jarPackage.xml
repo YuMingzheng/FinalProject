@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="jarPackage">
+    <CLASSES>
+      <root url="jar://D:/Java/jarPackage/commons-csv-1.8.jar!/" />
+      <root url="jar://D:/Java/jarPackage/javacsv-2.0.jar!/" />
+      <root url="jar://D:/Java/jarPackage/jxl-2.6.12.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../../../Program Files/IBM/ILOG/CPLEX_Studio1263/cplex/lib/cplex.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://D:/Java/jarPackage/json-20160810-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES />
+  </library>
+</component>
